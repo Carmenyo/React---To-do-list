@@ -1,5 +1,5 @@
-import "../styles/App.scss";
-import "../styles/ListaDeTareas.scss";
+import "../styles/components/App.scss";
+import "../styles/components/ListaDeTareas.scss";
 import ListaDeTareas from "./ListaDeTareas";
 
 function App() {

@@ -1,3 +1,5 @@
+@import "../core/variables.scss";
+
 .tarea-formulario{
     display: flex;
     flex-wrap: wrap;
@@ -6,10 +8,11 @@
 }
 .tarea-input{
     width: 350px;
+    height: 50px;
     font-size: 18px;
-    background-color: white;
+    background-color: $color1;
     padding: 4px 32px 14px 4px;
-    border: 2px solid rgb(13, 19, 13);
+    border: 2px solid white;
     outline: none;
 }
 .tarea-boton{
@@ -17,10 +20,12 @@
     font-size: 18px;
     font-family: 'Times New Roman', Times, serif;
     border: none;
-    border-radius: 0 4px 4px 0;
+    border-radius: 15px;
     cursor: pointer;
     outline: none;
-    background-color: rgb(14, 16, 14);
+    background-color: orange;
     color: aliceblue;
     text-transform: capitalize;
+    margin-left: 15px;
+    
 }

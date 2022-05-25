@@ -1,5 +1,5 @@
 import React from "react";
-import "../styles/TareaFormulario.scss";
+import "../styles/components/ListaDeTareas.scss";
 import Tarea from "./Tarea";
 import TareaFormulario from "./TareaFormulario";
 import { useState } from "react";
