@@ -42,5 +42,5 @@ Contributions are welcome! If you have suggestions, bug reports, or want to cont
 
 ## Author ✒️
 
-- **Your Name** - [Carmenyo](https://github.com/carmenyo)
+- **Carmenyo** - [Carmenyo](https://github.com/carmenyo)
 
