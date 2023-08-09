@@ -1,7 +1,7 @@
 .tarea-contenedor{
-    width: 500px;
-    min-height: 65px;
-    background-color: yellow;
+    width: 31rem;
+    min-height: 3rem;
+    background-color: rgb(255, 223, 230);
     margin: 5px 0;
     padding: 8px 15px 8px 20px ;
     display: flex;
@@ -14,13 +14,13 @@
 }
 
 .tarea-contenedor:nth-child(3n + 1){
-background-color: rgb(131, 232, 131);
+background-color: rgb(255, 182, 193);
 }
 .tarea-contenedor:nth-child(3n + 2){
-    background-color: aqua;
+    background-color: rgb(255, 192, 203);
     }
 .tarea-contenedor:nth-child(3n + 1){
-        background-color: rgb(131, 232, 131);
+        background-color: rgb(255, 105, 180);
         }
 
 .tarea-texto{
@@ -39,6 +39,6 @@ overflow-wrap: anywhere;
     }
 
 .tarea-contenedor.completada{
-    background-color: rgb(237, 155, 169);
+    background-color: rgb(255, 105, 180);
     text-decoration: line-through;
 }
